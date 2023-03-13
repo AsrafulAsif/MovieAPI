@@ -1,4 +1,4 @@
-package com.example.movieapi.controller;
+package com.example.movieapi.controller.rest;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
